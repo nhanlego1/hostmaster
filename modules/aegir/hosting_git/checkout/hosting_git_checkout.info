@@ -1,0 +1,13 @@
+name = Git checkout tasks
+description = Allows access to the checkout task
+package = Aegir Git
+dependencies[] = hosting_site
+dependencies[] = hosting_git
+core = 7.x
+
+; Information added by Drupal.org packaging script on 2016-05-19
+version = "7.x-3.5"
+core = "7.x"
+project = "hosting_git"
+datestamp = "1463683848"
+

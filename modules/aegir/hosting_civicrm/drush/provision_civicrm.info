@@ -1,0 +1,14 @@
+name = Provision CiviCRM
+description = CiviCRM configuration for Aegir platforms
+package = Provision
+dependencies[] = drush
+
+core = 6.x
+
+
+; Information added by Drupal.org packaging script on 2016-05-19
+version = "7.x-3.5"
+core = "7.x"
+project = "hosting_civicrm"
+datestamp = "1463685308"
+

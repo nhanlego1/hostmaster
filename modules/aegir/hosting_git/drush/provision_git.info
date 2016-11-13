@@ -1,0 +1,8 @@
+name = "Provision Git"
+description = "Provides wrappers for provision.module to access Git commands."
+; Information added by Drupal.org packaging script on 2016-05-19
+version = "7.x-3.5"
+core = "7.x"
+project = "hosting_git"
+datestamp = "1463683848"
+
